@@ -1,0 +1,10 @@
+{
+  "name": "react-data-entry",
+  "version": "0.0.1",
+  "description": "A template for spinning up a datastore with a Google Sheetslike UI",
+  "main": "index.js",
+  "repository": "https://github.com/muziejus/react-data-entry.git",
+  "author": "Moacir P. de Sá Pereira <moacir.p@columbia.edu> (http://moacir.com)",
+  "license": "GPL-3.0",
+  "private": true
+}
